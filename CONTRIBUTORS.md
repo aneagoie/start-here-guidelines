@@ -4793,7 +4793,7 @@
 
 - [@KatrinaRose14](https://github.com/KatrinaRose14)
 
--[@tim0thylee](https://github.com/tim0thylee) 
+-[@tim0thylee](https://github.com/tim0thylee)
 
 - [@vonguyenphu](https://github.com/vonguyenphu)
 
@@ -4822,3 +4822,5 @@
 -[@shanicesmith98](https://github.com/shanicesmith98/)
 
 -[@handa26](https://github.com/handa26/)
+
+-[@jacobchak](https://github.com/jacobchak/)
