@@ -4634,7 +4634,6 @@
 
 -[@Bright3173](https://github.com/Bright3173)
 
-
 -[@mohammadrezanamjoo](https://github.com/mohammadrezanamjoo)
 
 -[@mspatsy](https://github.com/mspatsy)
@@ -4793,7 +4792,7 @@
 
 - [@KatrinaRose14](https://github.com/KatrinaRose14)
 
--[@tim0thylee](https://github.com/tim0thylee) 
+-[@tim0thylee](https://github.com/tim0thylee)
 
 - [@vonguyenphu](https://github.com/vonguyenphu)
 
@@ -4822,3 +4821,5 @@
 -[@shanicesmith98](https://github.com/shanicesmith98/)
 
 -[@handa26](https://github.com/handa26/)
+
+-[@FidelAmendola1976](https://github.com/FidelAmendola1976/)
